@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="sn">b20d2ead477211109c8cc789826d43d2</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>SEPARATOR</link_type>
+        <map_page/>
+        <mobile_title>Agreement</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order>1</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-27 13:13:49</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>760d6265473611109c8cc789826d433d</sys_id>
+        <sys_name>Agreement</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="sn" source="x_929122_sn">eb9c2225473611109c8cc789826d43bb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sn">eb9c2225473611109c8cc789826d43bb</sys_scope>
+        <sys_update_name>sys_app_module_760d6265473611109c8cc789826d433d</sys_update_name>
+        <timeline_page/>
+        <title>Agreement</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>
